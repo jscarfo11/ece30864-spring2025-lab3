@@ -17,3 +17,17 @@ Scrum Master vs Product Owner
 The project owner is the one who sets the direction of the project / team, is responsible for facilating releases, and managing stakeholders (making sure upper management is happy, the consumers like the product, etc).
 
 The scrum master is responsible for implementing the Scrum workflow. They are responsible for the JIRA tooling, setting up sprints and meetings, and holding team members accountable for their stories/issues.
+
+Three types of Meetings
+
+Sprint Planning:
+- Figure out what needs to be completed in the next sprint
+- Determine the story points of all tasks and assign them
+
+Daily Scrum / Standup
+- Discuss work completed yesterday
+- Discuss daily plan and blocking issues
+
+Sprint Retrospective Meeting
+- Discuss what was completed during the sprint
+- Move any incomplete work to the backlog
