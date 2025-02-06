@@ -1,1 +1,10 @@
 
+Pros vs Cons of Agile Development
+
+Pros
+No periods where the project is Stagnant / the consumers are recieving no updates.
+Smaller team sizes that can cross collabrate when needed.
+
+Cons
+Developers need to spend more of their time on DevOps / administrative things.
+Requires more upfront work (planning, setting up the workflows) than compared to the waterfall mentality.
