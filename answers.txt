@@ -33,3 +33,15 @@ Daily Scrum / Standup
 Sprint Retrospective Meeting
 - Discuss what was completed during the sprint
 - Move any incomplete work to the backlog
+
+
+
+Types of Issues
+
+Epic - a large amount of work that can be broken into several sub-sections (stories)
+
+Story - a unit of work typically reserved for software development
+
+Bug - Something that is causing the product to not work as expected
+
+Task - a unit of work typically reserved for non-software development work ie documentation or preparing for meetings.
