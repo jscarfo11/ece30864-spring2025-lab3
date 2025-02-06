@@ -18,6 +18,8 @@ The project owner is the one who sets the direction of the project / team, is re
 
 The scrum master is responsible for implementing the Scrum workflow. They are responsible for the JIRA tooling, setting up sprints and meetings, and holding team members accountable for their stories/issues.
 
+
+
 Three types of Meetings
 
 Sprint Planning:
